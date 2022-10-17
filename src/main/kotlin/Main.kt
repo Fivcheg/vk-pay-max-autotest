@@ -4,8 +4,7 @@ fun main() {
     val cardType = "VK Pay"
     val commission: Double = userTypeCardDiscount(cardType, amount, lastAmount)
     val totalCommisson = calculateTotalCommisson(cardType, commission, amount)
-    prin
-    ln("$totalCommisson  рублей составляет комиссия")
+    println("$totalCommisson  рублей составляет комиссия")
 }
 fun userTypeCardDiscount (cardType: String, amount: Int, lastAmount: Int): Double{
     val resultDiscount: Double = when (cardType){
