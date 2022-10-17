@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="095d0267-0e49-4f65-b219-84bf009e28c5" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/MainKtTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/MainKtTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/MainKtTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +95,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="MainKtTest.userTypeCardDiscountMaestroMax" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MainKtTest.mainTotalCommisson" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -110,7 +108,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;MainKtTest.userTypeCardDiscountMaestroMax&quot;" />
+            <option value="&quot;MainKtTest.mainTotalCommisson&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -120,7 +118,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="MainKtTest.userTypeCardDiscountMaestroMin" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MainKtTest.mainTotalCommissonMax" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -133,7 +131,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;MainKtTest.userTypeCardDiscountMaestroMin&quot;" />
+            <option value="&quot;MainKtTest.mainTotalCommissonMax&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -190,10 +188,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.MainKtTest (1)" />
-        <item itemvalue="Gradle.MainKtTest.userTypeCardDiscountVkPay" />
+        <item itemvalue="Gradle.MainKtTest.mainTotalCommissonMax" />
+        <item itemvalue="Gradle.MainKtTest.mainTotalCommisson" />
         <item itemvalue="Gradle.vk-pay-max-autotest [jacocoTestReport]" />
-        <item itemvalue="Gradle.MainKtTest.userTypeCardDiscountMaestroMin" />
-        <item itemvalue="Gradle.MainKtTest.userTypeCardDiscountMaestroMax" />
+        <item itemvalue="Gradle.MainKtTest.userTypeCardDiscountVkPay" />
       </list>
     </recent_temporary>
   </component>
